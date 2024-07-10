@@ -57,6 +57,6 @@ print(type({                                            # dictionary/dict - nota
 print('Level 3, Question 2')
 
 # formula: d(p,q) = sqrt((p1 - q1)^2 + (p2 - q2)^2)
-# pointsL (2,3) and (10,8)
+# points (2,3) and (10,8)
 
 print(math.sqrt(((2 - 10)**2)+((3 - 8)**2)))
